@@ -1,0 +1,8 @@
+torch
+PIL
+numpy
+cv2
+pytorch_lightning
+clip
+labml
+tqdm
